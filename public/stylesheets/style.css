@@ -1,0 +1,18 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.rojo{
+  background-color: red !important;
+}
+.verde{
+  background-color: green !important;
+}
+.amarillo{
+  background-color: yellow !important;
+}
